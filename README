@@ -1,2 +1,9 @@
-    This project includes the example code and Exercise solutions I write for the opencv-python-tutroals. 
+    This project includes the example code and Exercise solutions I write for the book opencv-python-tutroals. 
     The code files are .ipynb type. To read and run these files your need to install python3, opencv-python and jupyter notebook.
+    
+    To intall python3 you could go to : https://www.python.org/download/releases/3.0/
+    
+    There are ways to install opencv on windows and Linux in opencv-python-tutroals book.
+    For mac user, we could follow these steps:
+        1. 
+    
