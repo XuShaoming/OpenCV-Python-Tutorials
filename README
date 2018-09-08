@@ -1,1 +1,2 @@
-opencv
+    This project includes the example code and Exercise solutions I write for the opencv-python-tutroals. 
+    The code files are .ipynb type. To read and run these files your need to install python3, opencv-python and jupyter notebook.
